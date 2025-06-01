@@ -4,3 +4,30 @@ Blues
 Bird is not a animals?? right??
 George the Frog
 Add extra content
+Dog
+Cat
+Rabbit
+Hamster
+Snake
+Lizard
+Turtle
+Fish
+Shark
+Whale
+Dolphin
+Seal
+Bear
+Polar Bear
+Penguin
+Ostrich
+Emu
+Kangaroo
+Koala
+Wombat
+Wallaby
+Platypus
+Duck
+Goose
+Swan
+Chicken
+Turkey
